@@ -2,5 +2,6 @@
 source "https://rubygems.org"
 
 gem 'pry'
-gem 'nokogiri', '1.6.6.2'
+gem "pry-nav"
 gem 'rspec'
+gem 'nokogiri' , '1.6.6.2'
